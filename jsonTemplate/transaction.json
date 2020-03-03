@@ -1,0 +1,17 @@
+{
+  "externalIdentifier": "{{externalIdentifier}}",
+  "collector": {
+    "accountHolderId": "{{accountHolderId}}",
+    "storeTransactionId": "{{storeTransactionId}}",
+    "deviceCode": "{{deviceCode}}"
+  },
+  "transaction": {
+    "partnerId": "{{partnerId}}",
+    "transactionType": {
+      "id": "{{transactionTypeId}}"
+    },
+    "amount": 0.01,
+    "token": "{{transaction_token}}",
+    "entryDate": "{{entryDate}}"
+  }
+}
