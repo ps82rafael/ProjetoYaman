@@ -87,5 +87,10 @@
             <artifactId>aws-java-sdk-sqs</artifactId>
             <version>LATEST</version>
         </dependency>
+        <dependency>
+            <groupId>com.amazonaws</groupId>
+            <artifactId>aws-java-sdk-dynamodb</artifactId>
+            <version>LATEST</version>
+        </dependency>
     </dependencies>
 </project>
